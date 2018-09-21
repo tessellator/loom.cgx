@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conceptualgraph editor="CharGer" version="4.1.2" created="Sep 21, 2018 12:51:08 AM" modified="Sep 21, 2018 12:56:38 AM" user="chad" wrapLabels="false" wrapColumns="30">
+<graph id="14cafb01:165f9f581f3:-7fcb" owner="0">
+    <type>
+        <label>Proposition</label>
+    </type>
+    <layout>
+        <rectangle x="5.00" y="5.00" width="1200.00" height="900.00" depth="1.00"/>
+        <color foreground="0,94,192" background="0,94,192"/>
+        <font name="SansSerif" style="1" size="12" />
+    </layout>
+    <concept id="14cafb01:165f9f581f3:-7fc9" owner="14cafb01:165f9f581f3:-7fcb">
+        <type>
+            <label>sail</label>
+        </type>
+        <layout>
+            <rectangle x="252.00" y="45.00" width="40.00" height="30.00" depth="1.00"/>
+            <color foreground="255,255,255" background="0,94,192"/>
+            <font name="SansSerif" style="1" size="12" />
+        </layout>
+<history>
+    <event class="chargerlib.history.UserHistoryRecord" timestamp="Sep 21, 2018 12:53:34 AM" type="USER">
+        <description>User created object.</description>
+        <id>no id</id>
+        <user>chad</user>
+    </event>
+    <event class="chargerlib.history.UserHistoryRecord" timestamp="Sep 21, 2018 12:53:38 AM" type="USER">
+        <description>User modified object. Label sail</description>
+        <id>no id</id>
+        <user>chad</user>
+    </event>
+</history>
+    </concept>
+    <concept id="14cafb01:165f9f581f3:-7fc5" owner="14cafb01:165f9f581f3:-7fcb">
+        <type>
+            <label>pillage</label>
+        </type>
+        <layout>
+            <rectangle x="145.00" y="107.00" width="50.00" height="30.00" depth="1.00"/>
+            <color foreground="255,255,255" background="0,94,192"/>
+            <font name="SansSerif" style="1" size="12" />
+        </layout>
+<history>
+    <event class="chargerlib.history.UserHistoryRecord" timestamp="Sep 21, 2018 12:54:11 AM" type="USER">
+        <description>User created object.</description>
+        <id>no id</id>
+        <user>chad</user>
+    </event>
+    <event class="chargerlib.history.UserHistoryRecord" timestamp="Sep 21, 2018 12:54:17 AM" type="USER">
+        <description>User modified object. Label pillage</description>
+        <id>no id</id>
+        <user>chad</user>
+    </event>
+</history>
+    </concept>
+    <concept id="14cafb01:165f9f581f3:-7fc6" owner="14cafb01:165f9f581f3:-7fcb">
+        <type>
+            <label>blue</label>
+        </type>
+        <layout>
+            <rectangle x="341.00" y="110.00" width="40.00" height="30.00" depth="1.00"/>
+            <color foreground="255,255,255" background="0,94,192"/>
+            <font name="SansSerif" style="1" size="12" />
+        </layout>
+<history>
+    <event class="chargerlib.history.UserHistoryRecord" timestamp="Sep 21, 2018 12:54:06 AM" type="USER">
+        <description>User created object.</description>
+        <id>no id</id>
+        <user>chad</user>
+    </event>
+    <event class="chargerlib.history.UserHistoryRecord" timestamp="Sep 21, 2018 12:54:09 AM" type="USER">
+        <description>User modified object. Label blue</description>
+        <id>no id</id>
+        <user>chad</user>
+    </event>
+</history>
+    </concept>
+    <concept id="14cafb01:165f9f581f3:-7fc7" owner="14cafb01:165f9f581f3:-7fcb">
+        <type>
+            <label>ocean</label>
+        </type>
+        <layout>
+            <rectangle x="435.00" y="45.00" width="44.00" height="30.00" depth="1.00"/>
+            <color foreground="255,255,255" background="0,94,192"/>
+            <font name="SansSerif" style="1" size="12" />
+        </layout>
+<history>
+    <event class="chargerlib.history.UserHistoryRecord" timestamp="Sep 21, 2018 12:54:00 AM" type="USER">
+        <description>User created object.</description>
+        <id>no id</id>
+        <user>chad</user>
+    </event>
+    <event class="chargerlib.history.UserHistoryRecord" timestamp="Sep 21, 2018 12:54:04 AM" type="USER">
+        <description>User modified object. Label ocean</description>
+        <id>no id</id>
+        <user>chad</user>
+    </event>
+</history>
+    </concept>
+    <relation id="14cafb01:165f9f581f3:-7fc8" owner="14cafb01:165f9f581f3:-7fcb">
+        <type>
+            <label>agent</label>
+        </type>
+        <layout>
+            <rectangle x="160.50" y="48.50" width="43.00" height="23.00" depth="1.00"/>
+            <color foreground="0,0,0" background="255,231,100"/>
+            <font name="SansSerif" style="1" size="12" />
+        </layout>
+<history>
+    <event class="chargerlib.history.UserHistoryRecord" timestamp="Sep 21, 2018 12:53:51 AM" type="USER">
+        <description>User created object.</description>
+        <id>no id</id>
+        <user>chad</user>
+    </event>
+    <event class="chargerlib.history.UserHistoryRecord" timestamp="Sep 21, 2018 12:54:23 AM" type="USER">
+        <description>User modified object. Label agent</description>
+        <id>no id</id>
+        <user>chad</user>
+    </event>
+</history>
+    </relation>
+    <concept id="14cafb01:165f9f581f3:-7fca" owner="14cafb01:165f9f581f3:-7fcb">
+        <type>
+            <label>pirate</label>
+        </type>
+        <layout>
+            <rectangle x="31.00" y="45.00" width="72.00" height="30.00" depth="1.00"/>
+            <color foreground="255,255,255" background="0,94,192"/>
+            <font name="SansSerif" style="1" size="12" />
+        </layout>
+<history>
+    <event class="chargerlib.history.UserHistoryRecord" timestamp="Sep 21, 2018 12:53:26 AM" type="USER">
+        <description>User created object.</description>
+        <id>no id</id>
+        <user>chad</user>
+    </event>
+    <event class="chargerlib.history.UserHistoryRecord" timestamp="Sep 21, 2018 12:53:30 AM" type="USER">
+        <description>User modified object. Label Columbus</description>
+        <id>no id</id>
+        <user>chad</user>
+    </event>
+    <event class="chargerlib.history.UserHistoryRecord" timestamp="Sep 21, 2018 12:53:46 AM" type="USER">
+        <description>User modified object. Label pirate</description>
+        <id>no id</id>
+        <user>chad</user>
+    </event>
+</history>
+    </concept>
+    <relation id="14cafb01:165f9f581f3:-7fbc" owner="14cafb01:165f9f581f3:-7fcb">
+        <type>
+            <label>agent</label>
+        </type>
+        <layout>
+            <rectangle x="44.50" y="111.50" width="43.00" height="23.00" depth="1.00"/>
+            <color foreground="0,0,0" background="255,231,100"/>
+            <font name="SansSerif" style="1" size="12" />
+        </layout>
+<history>
+    <event class="chargerlib.history.UserHistoryRecord" timestamp="Sep 21, 2018 12:55:13 AM" type="USER">
+        <description>User created object.</description>
+        <id>no id</id>
+        <user>chad</user>
+    </event>
+    <event class="chargerlib.history.UserHistoryRecord" timestamp="Sep 21, 2018 12:55:16 AM" type="USER">
+        <description>User modified object. Label agent</description>
+        <id>no id</id>
+        <user>chad</user>
+    </event>
+</history>
+    </relation>
+    <relation id="14cafb01:165f9f581f3:-7fbf" owner="14cafb01:165f9f581f3:-7fcb">
+        <type>
+            <label>attr</label>
+        </type>
+        <layout>
+            <rectangle x="435.00" y="113.50" width="40.00" height="23.00" depth="1.00"/>
+            <color foreground="0,0,0" background="255,231,100"/>
+            <font name="SansSerif" style="1" size="12" />
+        </layout>
+<history>
+    <event class="chargerlib.history.UserHistoryRecord" timestamp="Sep 21, 2018 12:54:51 AM" type="USER">
+        <description>User created object.</description>
+        <id>no id</id>
+        <user>chad</user>
+    </event>
+    <event class="chargerlib.history.UserHistoryRecord" timestamp="Sep 21, 2018 12:54:53 AM" type="USER">
+        <description>User modified object. Label attr</description>
+        <id>no id</id>
+        <user>chad</user>
+    </event>
+</history>
+    </relation>
+    <relation id="14cafb01:165f9f581f3:-7fc2" owner="14cafb01:165f9f581f3:-7fcb">
+        <type>
+            <label>patient</label>
+        </type>
+        <layout>
+            <rectangle x="339.00" y="48.50" width="52.00" height="23.00" depth="1.00"/>
+            <color foreground="0,0,0" background="255,231,100"/>
+            <font name="SansSerif" style="1" size="12" />
+        </layout>
+<history>
+    <event class="chargerlib.history.UserHistoryRecord" timestamp="Sep 21, 2018 12:54:37 AM" type="USER">
+        <description>User created object.</description>
+        <id>no id</id>
+        <user>chad</user>
+    </event>
+    <event class="chargerlib.history.UserHistoryRecord" timestamp="Sep 21, 2018 12:54:41 AM" type="USER">
+        <description>User modified object. Label patient</description>
+        <id>no id</id>
+        <user>chad</user>
+    </event>
+</history>
+    </relation>
+    <arrow id="14cafb01:165f9f581f3:-7fba" owner="14cafb01:165f9f581f3:-7fcb" label="-" from="14cafb01:165f9f581f3:-7fbc" to="14cafb01:165f9f581f3:-7fc5">
+        <layout>
+            <rectangle x="110.72" y="118.53" width="8.00" height="8.00" depth="1.00"/>
+            <color foreground="0,0,0" background="255,255,255"/>
+            <font name="SansSerif" style="1" size="12" />
+            <edge arrowHeadWidth="5" arrowHeadHeight="5" edgeThickness="1.5" />
+        </layout>
+    </arrow>
+    <arrow id="14cafb01:165f9f581f3:-7fbb" owner="14cafb01:165f9f581f3:-7fcb" label="-" from="14cafb01:165f9f581f3:-7fca" to="14cafb01:165f9f581f3:-7fbc">
+        <layout>
+            <rectangle x="62.45" y="90.84" width="8.00" height="8.00" depth="1.00"/>
+            <color foreground="0,0,0" background="255,255,255"/>
+            <font name="SansSerif" style="1" size="12" />
+            <edge arrowHeadWidth="5" arrowHeadHeight="5" edgeThickness="1.5" />
+        </layout>
+    </arrow>
+    <arrow id="14cafb01:165f9f581f3:-7fbd" owner="14cafb01:165f9f581f3:-7fcb" label="-" from="14cafb01:165f9f581f3:-7fbf" to="14cafb01:165f9f581f3:-7fc7">
+        <layout>
+            <rectangle x="451.90" y="91.66" width="8.00" height="8.00" depth="1.00"/>
+            <color foreground="0,0,0" background="255,255,255"/>
+            <font name="SansSerif" style="1" size="12" />
+            <edge arrowHeadWidth="5" arrowHeadHeight="5" edgeThickness="1.5" />
+        </layout>
+    </arrow>
+    <arrow id="14cafb01:165f9f581f3:-7fbe" owner="14cafb01:165f9f581f3:-7fcb" label="-" from="14cafb01:165f9f581f3:-7fc6" to="14cafb01:165f9f581f3:-7fbf">
+        <layout>
+            <rectangle x="405.47" y="121.00" width="8.00" height="8.00" depth="1.00"/>
+            <color foreground="0,0,0" background="255,255,255"/>
+            <font name="SansSerif" style="1" size="12" />
+            <edge arrowHeadWidth="5" arrowHeadHeight="5" edgeThickness="1.5" />
+        </layout>
+    </arrow>
+    <arrow id="14cafb01:165f9f581f3:-7fc1" owner="14cafb01:165f9f581f3:-7fcb" label="-" from="14cafb01:165f9f581f3:-7fc9" to="14cafb01:165f9f581f3:-7fc2">
+        <layout>
+            <rectangle x="313.17" y="56.00" width="8.00" height="8.00" depth="1.00"/>
+            <color foreground="0,0,0" background="255,255,255"/>
+            <font name="SansSerif" style="1" size="12" />
+            <edge arrowHeadWidth="5" arrowHeadHeight="5" edgeThickness="1.5" />
+        </layout>
+    </arrow>
+    <arrow id="14cafb01:165f9f581f3:-7fc3" owner="14cafb01:165f9f581f3:-7fcb" label="-" from="14cafb01:165f9f581f3:-7fc8" to="14cafb01:165f9f581f3:-7fc9">
+        <layout>
+            <rectangle x="222.50" y="56.00" width="8.00" height="8.00" depth="1.00"/>
+            <color foreground="0,0,0" background="255,255,255"/>
+            <font name="SansSerif" style="1" size="12" />
+            <edge arrowHeadWidth="5" arrowHeadHeight="5" edgeThickness="1.5" />
+        </layout>
+    </arrow>
+    <arrow id="14cafb01:165f9f581f3:-7fc4" owner="14cafb01:165f9f581f3:-7fcb" label="-" from="14cafb01:165f9f581f3:-7fca" to="14cafb01:165f9f581f3:-7fc8">
+        <layout>
+            <rectangle x="129.47" y="56.00" width="8.00" height="8.00" depth="1.00"/>
+            <color foreground="0,0,0" background="255,255,255"/>
+            <font name="SansSerif" style="1" size="12" />
+            <edge arrowHeadWidth="5" arrowHeadHeight="5" edgeThickness="1.5" />
+        </layout>
+    </arrow>
+    <arrow id="14cafb01:165f9f581f3:-7fc0" owner="14cafb01:165f9f581f3:-7fcb" label="-" from="14cafb01:165f9f581f3:-7fc2" to="14cafb01:165f9f581f3:-7fc7">
+        <layout>
+            <rectangle x="407.91" y="56.00" width="8.00" height="8.00" depth="1.00"/>
+            <color foreground="0,0,0" background="255,255,255"/>
+            <font name="SansSerif" style="1" size="12" />
+            <edge arrowHeadWidth="5" arrowHeadHeight="5" edgeThickness="1.5" />
+        </layout>
+    </arrow>
+</graph>
+
+</conceptualgraph>
+
